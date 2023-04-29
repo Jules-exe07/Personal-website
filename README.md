@@ -6,11 +6,6 @@ This is my personal website, built using Streamlit. It showcases my projects, sk
 Getting Started
 To get started with this project, follow these steps:
 
-Clone the repository to your local machine using the command git clone https://github.com/your-username/personal-website.git.
-Install the necessary dependencies by running pip install -r requirements.txt.
-Run the Streamlit app by executing the command streamlit run app.py.
-Navigate to localhost:8501 in your web browser to view the app.
-Features
 
 This website includes the following features:
 
